@@ -6,9 +6,8 @@
  * Class to connect to Oempro v4.* API
  *
  * @version 1.0
- * @copyright Solar11.Net
- * @author Rodrigo P. Reis <rodrigo@solar11.net>
- * @package Solar11Net.Products.Oempro
+ * @copyright AjaxMasters.com
+ * @author Chocksy <chocksy@ajaxmasters.com>
  *
  */
 class OemproConnect {
